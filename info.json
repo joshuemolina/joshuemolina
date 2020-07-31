@@ -11,7 +11,11 @@
 		
 		"Workshops." : "https://docs.google.com/document/d/1mIzDONApofTML1BntjePWOvZt4PYQKXDBwf_WspnLF0/edit?usp=sharing",
 		
-		"Work from Workshops." : "https://docs.google.com/presentation/d/e/2PACX-1vRcYbcNSaPCrFZSWOwY2dWqk2OKs6Ubr0UBMYwmmCm-QDK9w9Ij1h6LxzbnF4IscMOuCfPJdHQPIXSO/pub?start=false&loop=false&delayms=3000"
+		"Work from Workshops." : "https://docs.google.com/presentation/d/e/2PACX-1vRcYbcNSaPCrFZSWOwY2dWqk2OKs6Ubr0UBMYwmmCm-QDK9w9Ij1h6LxzbnF4IscMOuCfPJdHQPIXSO/pub?start=true&loop=true&delayms=3000",
+		
+		"Calender." : "https://calendar.google.com/calendar/embed?src=jtkf44ufuhl7sqvs9rje4rrkf8%40group.calendar.google.com&ctz=America%2FLos_Angeles",
+		
+		"Mailing List." : "https://docs.google.com/forms/d/e/1FAIpQLSeuQS3snc8p3ijxtnTVf8CqUcGMFZljYNEasRJcq0nPWNWOOQ/viewform?usp=sf_link"
 
 	}
 }
